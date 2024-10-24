@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+alembic
+python-dotenv
+aiosqlite
+pytest
+httpx
+PyJWT
+google-auth
+requests
